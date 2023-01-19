@@ -133,8 +133,6 @@ footer > * {
 .specialist {
   align-items: center;
   display: flex;
-  margin-right: -30px;
-  margin-left: -30px;
   flex-direction: row;
 }
 .specialist > * {
@@ -187,4 +185,14 @@ a {
 }
 .our {
   margin-bottom: 78px;
+}
+h6 {
+  font-weight: 700;
+  line-height: 21px;
+  font-size: 18px;
+}
+p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
 }
